@@ -1,4 +1,4 @@
-#INF - 122
+# INF - 122
 Nombre: Juan Ignacio
 
 Materia: INF - 122
