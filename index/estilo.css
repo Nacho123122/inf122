@@ -7,7 +7,6 @@ h1{
     font-size: 25px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     background-color: black;
-
 }
 p{
     font-size: large;
@@ -18,14 +17,12 @@ p{
 img{
     max-width: 25%;
     max-height: 25%;
-
 }
 .enviar{
     border-radius: 5px;
     background-color: aqua;
 }
 .etiqueta{
-    
     background-color: blue;
 }
 ol li{
