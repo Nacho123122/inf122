@@ -1,12 +1,13 @@
 
 body{
-    background-color: #0f0f0f;
+    background-color: #c7cad0;
 }
 h1{
-    color: rgb(255, 0, 0);
-    font-size: 25px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-    background-color: black;
+    color: #bc6cd9;
+    
+}
+h2{
+    color: #bc6cd9;
 }
 p{
     font-size: large;
@@ -20,10 +21,11 @@ img{
 }
 .enviar{
     border-radius: 5px;
-    background-color: aqua;
+    background-color: #a5FFEa;
+    color: #272625;
 }
 .etiqueta{
-    background-color: blue;
+    background-color: #ff0644;
 }
 ol li{
     font-size:30px;
@@ -36,4 +38,16 @@ ul li{
 }
 ol li{
     color:blueviolet;
+}
+.registrar{
+    border-radius: 10px;
+    
+}
+.iniciar{
+    background-color: #E9FFEC;
+    color: #FFF4F6;
+}
+.conf{
+    background-color: #e0483d;
+    color: #bc6cd9;
 }
